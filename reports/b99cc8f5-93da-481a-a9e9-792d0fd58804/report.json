@@ -1,0 +1,76 @@
+{
+    "id": "b99cc8f5-93da-481a-a9e9-792d0fd58804",
+    "name": "\"new-fixture.testcafe\" fixture tests",
+    "defaultReportView": "grid",
+    "status": "succeeded",
+    "path": "C:\\Users\\champa\\TestCafeStudio\\reports\\b99cc8f5-93da-481a-a9e9-792d0fd58804\\report.json",
+    "runOptions": {
+        "name": "\"new-fixture.testcafe\" fixture tests",
+        "src": [
+            "C:\\Users\\champa\\TestCafeStudio\\cubitoritsolutions-com\\new-fixture.testcafe"
+        ],
+        "browsers": [
+            "chrome"
+        ],
+        "skipJsErrors": false,
+        "takeScreenshotsOnFails": false,
+        "quarantineMode": false,
+        "debugMode": false,
+        "debugOnFail": false,
+        "skipUncaughtErrors": false,
+        "stopOnFirstFail": false,
+        "disablePageCaching": false,
+        "disableMultipleWindows": true,
+        "screenshotsPath": "C:\\Users\\champa\\TestCafeStudio\\reports\\screenshots",
+        "defaultReportView": "grid",
+        "selectorTimeout": 10000,
+        "assertionTimeout": 3000,
+        "pageLoadTimeout": 3000,
+        "speed": 1,
+        "concurrency": 1
+    },
+    "testCafeOptions": {},
+    "raw": [
+        {
+            "method": "reportTaskStart",
+            "args": [
+                "2021-02-07T20:46:39.521Z",
+                [
+                    "Chrome 88.0.4324.146 / Windows 8.1"
+                ],
+                1
+            ]
+        },
+        {
+            "method": "reportFixtureStart",
+            "args": [
+                "New Fixture",
+                "C:\\Users\\champa\\TestCafeStudio\\cubitoritsolutions-com\\new-fixture.testcafe",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestStart",
+            "args": [
+                "New Test",
+                {}
+            ]
+        },
+        {
+            "method": "reportTestDone",
+            "args": [
+                "New Test",
+                "{\"errs\":[],\"warnings\":[],\"durationMs\":12769,\"screenshotPath\":null,\"screenshots\":[],\"videos\":[],\"quarantine\":null,\"skipped\":false,\"browsers\":[{\"testRunId\":\"vFpB1PfJd\",\"name\":\"Chrome\",\"version\":\"88.0.4324.146\",\"platform\":\"desktop\",\"os\":{\"name\":\"Windows\",\"version\":\"8.1\"},\"engine\":{\"name\":\"Blink\",\"version\":\"0.0\"},\"prettyUserAgent\":\"Chrome 88.0.4324.146 / Windows 8.1\",\"userAgent\":\"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36\",\"alias\":\"chrome\",\"headless\":false}],\"testId\":\"oCiuJqb\"}",
+                {}
+            ]
+        },
+        {
+            "method": "reportTaskDone",
+            "args": [
+                "2021-02-07T20:46:52.475Z",
+                1,
+                []
+            ]
+        }
+    ]
+}
