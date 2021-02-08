@@ -1,6 +1,6 @@
 "# Excerise-Testcafe-Studio" 
-# TestcafeStudio
-TestCafe Studio was built to test web apps via a fast and lightweight user interface. We've left out the fluff and focused on the tools you'll need to simplify test automation within your enterprise. Trail Version is used forthis project puropse
+## TestcafeStudio
+TestCafe Studio was built to test web apps via a fast and lightweight user interface. We've left out the fluff and focused on the tools you'll need to simplify test automation within your enterprise. Trail Version is used for this project puropse.
 
 
 * TestCafe Studio doesn't require WebDriver, browser plugins or other tools.
